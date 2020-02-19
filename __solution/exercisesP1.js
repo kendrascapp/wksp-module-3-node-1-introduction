@@ -16,7 +16,7 @@ const q2 = (req, res) => {
     // pass this variable to the ejs file and render it in the answer box.
     const sentence = 'This is the way.';
 
-    res.render('pages/question2', {});
+    res.render('pages/question2', { sentence: sentence });
 }
 // -----------------------------------------------
 

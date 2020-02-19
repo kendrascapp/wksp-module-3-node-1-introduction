@@ -6,12 +6,14 @@
 
 ### Why Node?
 
----
+## build back-end code with just JavaScript
 
 Server-side rendering VS. Client-side rendering [🔗](https://www.codeconquest.com/website/client-side-vs-server-side/)
 
 _thoughts?_
-
+client-side = browser
+node is the server, waits for requests to come in, sends out the HTML, JS.
+Node is reserved for the back end
 ---
 
 ### Binaries
@@ -87,7 +89,7 @@ It contains all the names of all the modules needed for the project.
 
 You want your friend to cook a specific meal. So you send him the recipe.
 
-##### What about the ingredients? You can either 
+##### What about the ingredients? You can either
 
 - ship him/her all of the ingredients
 - give him a list of ingredients and leave it to him/her to get them himself.
